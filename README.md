@@ -36,7 +36,7 @@ The technical methodology behind our solution is a harmonious integration of har
 
   
 - ### Pictures
-  Click on [*Pictures*](./Pictures.pdf) to view the pictures document.
+  ### [*Pictures*](./Pictures.pdf)
 
   
 - ### Logo

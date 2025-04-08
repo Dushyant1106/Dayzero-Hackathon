@@ -38,7 +38,9 @@ The technical methodology behind our solution is a harmonious integration of har
 - ### [*Pictures*](./Pictures.pdf)
 
   
-- ### Logo
+- ### [*Logo*](./Logo.pdf)
+
+  
 - ### Select platforms this project is built for
 Web, Andriod, IoS, MacOS
 - ### Applicable tracks

@@ -1,7 +1,7 @@
-### Dayzero-Hackathon
+# Dayzero-Hackathon
 
-# Project Name
-# Tagline
+### Project Name
+### Tagline
 # The problem it solves
 # Challenges we ran into
 # Technologies we used

@@ -2,8 +2,8 @@
 
 ### Project Name
 ### Tagline
-# The problem it solves
-# Challenges we ran into
+## The problem it solves
+## Challenges we ran into
 # Technologies we used
 # Links
 # Video demo

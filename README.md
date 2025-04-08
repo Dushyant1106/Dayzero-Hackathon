@@ -32,7 +32,7 @@ The technical methodology behind our solution is a harmonious integration of har
 
 - ### Links
 - ### Video demo
-- ### Cover image
+- ### [*Cover image*](./Coverimage.pdf)
 
   
 - ### [*Pictures*](./Pictures.pdf)

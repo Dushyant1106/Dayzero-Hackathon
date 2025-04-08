@@ -1,4 +1,4 @@
-# Dayzero-Hackathon
+# Dayzero- Hackathon
 
 ### Project Name
 ### Tagline

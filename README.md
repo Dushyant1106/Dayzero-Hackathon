@@ -5,7 +5,7 @@ Martin: A Gen AI solution that understands doctor patient interaction and genera
 
 
 - ### Tagline
-One Tap. Let AI Handle the Rest-Transcibe, Generate EHR.
+One Tap. Let AI Handle the Rest- Transcibe, Generate EHR.
 
 
 - ### The problem it solves

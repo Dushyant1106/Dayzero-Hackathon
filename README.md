@@ -9,7 +9,7 @@ One Tap. Let AI Handle the Rest- Transcibe, Generate EHR.
 
 
 - ### The problem it solves
-Our nurses spend over 4 hours per shift on documentation, resulting in burnout, high turnover, and reduced time for patient care. At the same time, our patients often struggle to understand their own medical notes, creating a significant gap in healthcare accessibility and communication.
+Our nurses/ healthcare professionals spend over 4 hours per shift on documentation, resulting in burnout, high turnover, and reduced time for patient care. At the same time, our patients often struggle to understand their own medical notes, creating a significant gap in healthcare accessibility and communication.
 
 
 - ### Challenges we ran into

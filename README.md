@@ -35,7 +35,7 @@ Initial skepticism was natural. With hands-on demos and real-time benefits, adop
 
   
 - ### Video demo
-  x
+  https://drive.google.com/file/d/1OMrMPCv1QCvBlHS1kPGgpZE42HsMXavI/view?usp=sharing
 
   
 - ### [*Cover image*](./Coverimage.pdf)

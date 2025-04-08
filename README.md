@@ -1,4 +1,4 @@
-# Dayzero- Hackathon
+- # Dayzero- Hackathon
 
 ### Project Name
 Martin: A Gen AI model that understands doctor patient interaction and generates an Electronic Health Record.

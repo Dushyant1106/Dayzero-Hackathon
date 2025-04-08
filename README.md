@@ -2,7 +2,7 @@
 
 ### Project Name
 ### Tagline
-## The problem it solves
+### The problem it solves
 ### Challenges we ran into
 ### Technologies we used
 ### Links

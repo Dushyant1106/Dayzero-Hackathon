@@ -33,10 +33,12 @@ The technical methodology behind our solution is a harmonious integration of har
 - ### Links
 - ### Video demo
 - ### Cover image
-- ### Pictures
-- Welcome to the project repository!
 
-Click on [*Pictures*](./Pictures.pdf) to view the pictures document.
+  
+- ### Pictures
+  Click on [*Pictures*](./Pictures.pdf) to view the pictures document.
+
+  
 - ### Logo
 - ### Select platforms this project is built for
 Web, Andriod, IoS, MacOS
